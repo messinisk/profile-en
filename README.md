@@ -67,6 +67,13 @@ I have authored essays and studies combining social analysis, economics, and sys
   - [Olist — Geographical customer distribution, Closed offer analysis](https://github.com/messinisk/data-studies/tree/main/Olist_analysis)
   - [Population distributions and long-term change in the immigrant stock (1990–2024)](https://github.com/messinisk/data-studies/blob/main/migration_population_analysis/migration_population_analysis.md)
 - **Publications**
+ - [Unanswered Questions](https://github.com/messinisk/Unanswered_Questions)
+    - EL:  [pdf](el/unanswered-questions_el.pdf),   [video](https://youtu.be/6_pr7qp9JcQ)
+    - En: [pdf](en/unanswered-questions_en.pdf),  [video](https://www.youtube.com/watch?v=lsdRD2qtJTM)
+
+  - [Social Economy](https://github.com/messinisk/SOCIAL-ECONOMY)
+    -  ⬇️ **Download PDF:** <br> [SOCIAL ECONOMY version En](en/SOCIAL_ECONOMY_en.pdf)<br> [SOCIAL ECONOMY version El](<el/SOCIAL ECONOMY_el.pdf>)<br>  [SOCIAL ECONOMY version De](de/SOCIAL_ECONOMY_de.pdf)
+  - [UML Architecture Models](https://github.com/messinisk/software_architecture_MODEL_UML)
 
 ### Secondary References
 - **Unanswered Questions**  
